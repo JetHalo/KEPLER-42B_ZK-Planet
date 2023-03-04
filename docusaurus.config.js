@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/kepler42bDAO?s=20',
+                href: 'https://twitter.com/kepler42bDAO',
               },
             ],
           },
