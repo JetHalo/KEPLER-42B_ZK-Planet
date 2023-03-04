@@ -93,8 +93,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'ZK forum',
+                href: 'https://forum.kepler42b.xyz/',
               },
               {
                 label: 'Discord',
