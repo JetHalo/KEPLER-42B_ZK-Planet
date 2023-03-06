@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+# curated resource
 
 [The Art of Zero Knowledge](https://zkproof.org/blog/)
 [zkMesh](https://zkmesh.substack.com/)

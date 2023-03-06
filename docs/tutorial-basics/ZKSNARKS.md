@@ -1,5 +1,7 @@
-
-
+---
+sidebar_position: 4
+---
+# Zksnark
 [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
 [The Power of Tau or: How I Learned to Stop Worrying and Love the Setup](https://zeroknowledge.fm/the-power-of-tau-or-how-i-learned-to-stop-worrying-and-love-the-setup/)
 [Setup Ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)

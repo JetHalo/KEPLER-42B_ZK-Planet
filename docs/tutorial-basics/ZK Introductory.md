@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+# ZK Introduction
 [Computer Scientist Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fOGdb1CTu5c)
 [ZK Jargon Decoder](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
 [Introduction to Zero-Knowledge Proofs](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/)
